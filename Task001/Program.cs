@@ -12,4 +12,5 @@ else
 {
     max = b;
 }
+Console.Write("max = ");
 Console.WriteLine(max);
